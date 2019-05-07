@@ -37,14 +37,13 @@ function buildCharts(sample) {
         marker: {
           color: data.otu_ids,
           size: data.sample_values,
-          colorscale: "Jet"
         }
       };
       var trace1 = [trace1];
       var layout = {
         showlegend: false,
         height: 600,
-        width: 1500
+        width: 1700
       };
       Plotly.newPlot('bubble', trace1, layout);
 
