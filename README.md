@@ -1,5 +1,3 @@
-# Belly-button-diversity
-
 # Deployed on heroku here: 
 https://ms-bellybutton-diversity.herokuapp.com/
 
