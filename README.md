@@ -8,4 +8,4 @@ https://ms-bellybutton-diversity.herokuapp.com/
 Command "python setup.py egg_info" failed with error code 1 in /private/var/folders/pt/hgx3qlq55015bpw4k8p_zc900000gn/T/pip-install-v8vt08y5/psycopg2/
 
 
-![herokuimage](Images/heroku.png)
+![herokuimage](Images/heroku1.png)
